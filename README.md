@@ -2,7 +2,7 @@
 
 This is the source code for the following paper:
 
-> Aaron Hertzmann. Painterly Rendering with Brush Strokes of Multiple Sizes. Proc. SIGGRAPH 1998. [Project Page][https://mrl.cs.nyu.edu/publications/painterly98/], [ACM paper link](https://dl.acm.org/doi/10.1145/280814.280951)
+> Aaron Hertzmann. Painterly Rendering with Brush Strokes of Multiple Sizes. Proc. SIGGRAPH 1998. [Project Page](https://mrl.cs.nyu.edu/publications/painterly98/), [ACM paper link](https://dl.acm.org/doi/10.1145/280814.280951)
 
 I haven't looked at this code in more than 20 years, but, amazingly, it ran straight out of the box anyway.   This code is untouched since then, aside from changing one line and adding a license.  Thanks to @manuelladron for the impetus to dig up the files and for testing it out.
 
