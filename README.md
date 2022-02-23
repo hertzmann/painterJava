@@ -21,6 +21,7 @@ rehash
 Then, to run
 ```
 cd java
+javac Painter.java
 java Painter ../images/tomatoes83.jpg
 ```
 
