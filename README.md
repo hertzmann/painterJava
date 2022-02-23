@@ -21,7 +21,7 @@ rehash
 Then, to run
 ```
 cd java
-java Painter ../images/tomatoes83.jpg
+java Painter ../images/tomato83.jpg
 ```
 
 You should see an interface like this, showing the input image:
