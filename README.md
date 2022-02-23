@@ -28,7 +28,7 @@ You should see an interface like this, showing the input image:
 
 ![painter UI](images/ui.jpg)
 
-Press `Go!`
+Press **Go!**
 
 Three windows will appear, showing the three layers of paint strokes, with Layer 2 being the final output:
 
@@ -40,6 +40,6 @@ What took minutes of computation in 1998 is now instantaneous.
 
 Some more outputs:
 
-![HuangShan layers](images/hslayers.jpg)
+![HuangShan layers](images/hs-layers.jpg)
 
 ![Lizard layers](images/lizardlayers.jpg)
