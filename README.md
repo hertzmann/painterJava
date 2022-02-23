@@ -11,7 +11,7 @@ Note: for my NPAR2000 paper, I re-implemented this algorithm in OpenGL, and I ma
 
 # Installation
 
-If necessary, install Java with your favorite client. On OS X with `homebrew` already installed, I used
+If necessary, install Java with your favorite client. For example, OS X with `homebrew` already installed:
 
 ```
 homebrew install java
