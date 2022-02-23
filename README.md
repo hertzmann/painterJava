@@ -1,4 +1,4 @@
-# Painterly Rendering from SIGGRAPH 98
+# Painterly Rendering with Curved Brush Strokes of Multiple Sizes (SIGGRAPH 98)
 
 This is the source code for the following paper:
 
