@@ -1,4 +1,4 @@
-# Painterly Rendering from SIGGRAPH 98 (Java version)
+# Painterly Rendering from SIGGRAPH 98
 
 This is the source code for the following paper:
 
@@ -6,7 +6,7 @@ This is the source code for the following paper:
 
 I haven't looked at this code in more than 20 years, but, amazingly, it runs just fine with no modification.   Thanks to [Manuel Rodriguez Ladrón de  Guevara](https://github.com/manuelladron) for the impetus to dig up the files and for testing it out.
 
-Note: for my NPAR2000 paper, I re-implemented this algorithm in C++/OpenGL, and I may release that code at some point too. That code does not work out of the box.
+For my NPAR2000 paper, I re-implemented this algorithm in C++/OpenGL, and I may release that code at some point too. That code does not work out of the box.
 
 
 # Installation
