@@ -24,6 +24,7 @@ cd java
 javac Painter.java
 java Painter ../images/tomato83.jpg
 ```
+(There will be a mountain of warnings about deprecated APIs.)
 
 You should see an interface like this, showing the input image:
 
