@@ -14,7 +14,7 @@ For [my NPAR2000 paper](https://mrl.cs.nyu.edu/publications/painterly-video/), I
 If necessary, install Java with your favorite client. For example, OS X with `homebrew` already installed:
 
 ```
-homebrew install java
+brew install java
 rehash
 ```
 
